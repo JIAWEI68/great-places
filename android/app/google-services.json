@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481811505986",
+    "project_id": "great-places-50e53",
+    "storage_bucket": "great-places-50e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481811505986:android:91f379738feb7b41db1edb",
+        "android_client_info": {
+          "package_name": "com.example.great_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481811505986-dh0mhhv17e12r5397gglo55nliqu59lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7L6wfqNvLnvFGTqt82o-QQx3BJ2iVHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481811505986-dh0mhhv17e12r5397gglo55nliqu59lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
